@@ -32,8 +32,6 @@ class App extends Component {
     this.setState({ friends });
   };
 
-  
-
 
   // Map over this.state.friends and render a FriendCard component for each friend object
   render() {
