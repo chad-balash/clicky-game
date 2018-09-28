@@ -19,6 +19,7 @@ function shuffle(arr) {
 shuffle(friends)
 
 
+
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
