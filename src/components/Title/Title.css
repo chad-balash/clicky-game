@@ -1,7 +1,12 @@
-.title {
+.game-title {
   width: 100%;
   text-align: center;
   font-size: 3rem;
   color: #2A77AE;
-  margin-bottom: 50px;
+  padding-bottom: 0px;
+}
+
+.instructions {
+  color: #2A77AE;
+  font-size: 1rem;
 }
